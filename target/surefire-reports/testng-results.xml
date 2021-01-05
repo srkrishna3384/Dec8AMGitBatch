@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="51040" started-at="2021-01-05T03:01:46Z" finished-at="2021-01-05T03:02:37Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="51040" started-at="2021-01-05T03:01:46Z" finished-at="2021-01-05T03:02:37Z">
+      <class name="com.rameshsoft.sample.TestTwo">
+        <test-method status="PASS" signature="demo()[pri:0, instance:com.rameshsoft.sample.TestTwo@7a0ac6e3]" name="demo" duration-ms="37867" started-at="2021-01-05T08:31:59Z" finished-at="2021-01-05T08:32:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- com.rameshsoft.sample.TestTwo -->
+      <class name="com.rameshsoft.sample.TestOne">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.rameshsoft.sample.TestOne@7e0ea639]" name="test" duration-ms="13154" started-at="2021-01-05T08:31:46Z" finished-at="2021-01-05T08:31:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.rameshsoft.sample.TestOne -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
