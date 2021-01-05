@@ -14,6 +14,7 @@ public class TestOne {
 		//System.setProperty(key, value)
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
+		System.out.println("Browser Launched successfully.....");
 		driver.get("https://rameshsoft.com");
 		System.out.println("Navigated to Rameshsoft web page");
 	}
