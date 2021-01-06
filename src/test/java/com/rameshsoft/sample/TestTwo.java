@@ -16,6 +16,7 @@ public class TestTwo {
 		driver.get("https://www.flipkart.com");
 		System.out.println("Navigated to News18 web page");
 		System.out.println("Person2 Modifications");
+		System.out.println("Person2 Modifications");
 	}
 
 }
